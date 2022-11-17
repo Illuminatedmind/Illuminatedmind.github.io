@@ -28,7 +28,7 @@ github_username:  Illuminatedmind
 
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
