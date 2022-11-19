@@ -28,7 +28,7 @@ github_username:  Illuminatedmind
 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: BDHU/minimalist
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
