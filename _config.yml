@@ -29,7 +29,6 @@ github_username:  Illuminatedmind
 
 # Build settings
 remote_theme: BDHU/minimalist
-minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
